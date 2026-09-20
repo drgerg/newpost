@@ -11,4 +11,6 @@ For years I intended to write up a utility to help me get from **idea** to actua
 
 **digger.py** helps newpost.py with the gathering and displaying of categories and tags.  I probably could have just put them together, but I didn't.  So sue me.  ;-)
 
+You should expect to do some minor editing simply because you're site is different than mine. I have confidence you can figure it out no sweat.
+
 That's all it does, and that's just perfect.  If you can use any or all of it, go for it.  Happy days!
