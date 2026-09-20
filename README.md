@@ -9,4 +9,6 @@ For years I intended to write up a utility to help me get from **idea** to actua
 
 **Newpost.py** sits in the folder with your other pelican config files.  When you call it, it prompts you for the different bits of header information, compiles and displays a table of your categories and your tags so you can choose, then creates the new "post.md" file with the name you provided in the "Slug" attribute.
 
+**digger.py** helps newpost.py with the gathering and displaying of categories and tags.  I probably could have just put them together, but I didn't.  So sue me.  ;-)
+
 That's all it does, and that's just perfect.  If you can use any or all of it, go for it.  Happy days!
